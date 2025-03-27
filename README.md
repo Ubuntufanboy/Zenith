@@ -10,7 +10,7 @@ This interpreter fails to follow instructions and often times makes vastly incor
 
 ## Potential Usecases
 
-While this program is just for show and isnt practical yet, the usecase of an interpreter is vast. Complex algorithms and weird syntax would all just be as simple as asking. While large LLMs like Claude and ChatGPT exist, They require the use of many package and convoluted installation instructions as well as sometimes just being flat out wrong. Zenith essentially has no syntax, just ask what you want and it will be done.
+While this program is just for show and isnt practical yet, the usecase of an interpreter is vast. Complex algorithms and weird syntax would all just be as simple as asking. While LLMs like Claude and ChatGPT exist, They require the use of many packages and convoluted installation instructions as well as sometimes just being flat out wrong. Zenith essentially has no syntax, just ask what you want and it will be done.
 
 Imagine saying "play audio.mp3" and all the hardwork was done. No need for finding the best library for playing audio that works on your os or anything!
 
